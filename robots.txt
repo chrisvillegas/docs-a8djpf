@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-054hzk.goib138.site/sitemap.xml
